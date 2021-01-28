@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatoly Dymarsky | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/anatoly-dymarsky/</link>
+      <atom:link href="https://liammcallistergroup.com/author/anatoly-dymarsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anatoly Dymarsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Anatoly Dymarsky</title>
+      <link>https://liammcallistergroup.com/author/anatoly-dymarsky/</link>
+    </image>
+    
+    <item>
+      <title>Compactification Effects in D-brane Inflation</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2009-qx/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2009-qx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3-brane Potentials from Fluxes in AdS/CFT</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2010-sx/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2010-sx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holographic Systematics of D-brane Inflation</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2008-kq/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2008-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Explicit Model of D-brane Inflation</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2007-ah/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2007-ah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Delicate universe</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2007-np/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2007-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On D3-brane Potentials in Compactifications with Fluxes and Wrapped D-branes</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2006-th/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2006-th/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

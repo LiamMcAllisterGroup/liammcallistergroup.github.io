@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehmet Demirtas | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/mehmet-demirtas/</link>
+      <atom:link href="https://liammcallistergroup.com/author/mehmet-demirtas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mehmet Demirtas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Mehmet Demirtas</title>
+      <link>https://liammcallistergroup.com/author/mehmet-demirtas/</link>
+    </image>
+    
+    <item>
+      <title>Superradiance Exclusions in the Landscape of Type IIB String Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/mehta-2020-kwu/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mehta-2020-kwu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conifold Vacua with Small Flux Superpotential</title>
+      <link>https://liammcallistergroup.com/publication/external/demirtas-2020-ffz/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/demirtas-2020-ffz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conifold Vacua with Small Flux Superpotential</title>
+      <link>https://liammcallistergroup.com/publication/internal/demirtas-2020-ffz/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/demirtas-2020-ffz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding the Kreuzer-Skarke Landscape</title>
+      <link>https://liammcallistergroup.com/publication/internal/demirtas-2020-dbm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/demirtas-2020-dbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Surfaces and Weak Gravity</title>
+      <link>https://liammcallistergroup.com/publication/internal/demirtas-2019-lfi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/demirtas-2019-lfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kreuzer-Skarke Axiverse</title>
+      <link>https://liammcallistergroup.com/publication/internal/demirtas-2018-akl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/demirtas-2018-akl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vacua with Small Flux Superpotential</title>
+      <link>https://liammcallistergroup.com/publication/external/demirtas-2019-sip/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/demirtas-2019-sip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vacua with Small Flux Superpotential</title>
+      <link>https://liammcallistergroup.com/publication/internal/demirtas-2019-sip/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/demirtas-2019-sip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

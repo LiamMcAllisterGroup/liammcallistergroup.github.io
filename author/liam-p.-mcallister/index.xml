@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liam P. McAllister | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/liam-p.-mcallister/</link>
+      <atom:link href="https://liammcallistergroup.com/author/liam-p.-mcallister/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liam P. McAllister</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Liam P. McAllister</title>
+      <link>https://liammcallistergroup.com/author/liam-p.-mcallister/</link>
+    </image>
+    
+    <item>
+      <title>On D3-brane Potentials in Compactifications with Fluxes and Wrapped D-branes</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2006-th/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2006-th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards inflation in string theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2003-sx/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2003-sx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Dodelson | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/scott-dodelson/</link>
+      <atom:link href="https://liammcallistergroup.com/author/scott-dodelson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Dodelson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sun, 01 Feb 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Scott Dodelson</title>
+      <link>https://liammcallistergroup.com/author/scott-dodelson/</link>
+    </image>
+    
+    <item>
+      <title>The Origin of the Universe as Revealed Through the Polarization of the Cosmic Microwave Background</title>
+      <link>https://liammcallistergroup.com/publication/internal/dodelson-2009-kq/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/dodelson-2009-kq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

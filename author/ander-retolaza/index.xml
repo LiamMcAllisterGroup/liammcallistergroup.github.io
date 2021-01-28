@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ander Retolaza | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/ander-retolaza/</link>
+      <atom:link href="https://liammcallistergroup.com/author/ander-retolaza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ander Retolaza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Ander Retolaza</title>
+      <link>https://liammcallistergroup.com/author/ander-retolaza/</link>
+    </image>
+    
+    <item>
+      <title>On uplifts by warped anti-D3-branes</title>
+      <link>https://liammcallistergroup.com/publication/external/moritz-2018-ani/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/moritz-2018-ani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward de Sitter space from ten dimensions</title>
+      <link>https://liammcallistergroup.com/publication/external/moritz-2017-xto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/moritz-2017-xto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

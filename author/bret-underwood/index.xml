@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bret Underwood | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/bret-underwood/</link>
+      <atom:link href="https://liammcallistergroup.com/author/bret-underwood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bret Underwood</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Bret Underwood</title>
+      <link>https://liammcallistergroup.com/author/bret-underwood/</link>
+    </image>
+    
+    <item>
+      <title>D3-brane Vacua in Stabilized Compactifications</title>
+      <link>https://liammcallistergroup.com/publication/internal/de-wolfe-2007-hd/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/de-wolfe-2007-hd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

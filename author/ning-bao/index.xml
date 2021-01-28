@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Bao | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/ning-bao/</link>
+      <atom:link href="https://liammcallistergroup.com/author/ning-bao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Bao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Ning Bao</title>
+      <link>https://liammcallistergroup.com/author/ning-bao/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Circuit Cosmology: The Expansion of the Universe Since the First Qubit</title>
+      <link>https://liammcallistergroup.com/publication/internal/bao-2017-iye/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bao-2017-iye/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sascha Leonhardt | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/sascha-leonhardt/</link>
+      <atom:link href="https://liammcallistergroup.com/author/sascha-leonhardt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sascha Leonhardt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Sascha Leonhardt</title>
+      <link>https://liammcallistergroup.com/author/sascha-leonhardt/</link>
+    </image>
+    
+    <item>
+      <title>Thraxions: Ultralight Throat Axions</title>
+      <link>https://liammcallistergroup.com/publication/external/hebecker-2018-yxs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/hebecker-2018-yxs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas C. Bachlechner | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/thomas-c.-bachlechner/</link>
+      <atom:link href="https://liammcallistergroup.com/author/thomas-c.-bachlechner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas C. Bachlechner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas C. Bachlechner</title>
+      <link>https://liammcallistergroup.com/author/thomas-c.-bachlechner/</link>
+    </image>
+    
+    <item>
+      <title>Planckian Axions and the Weak Gravity Conjecture</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2015-qja/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2015-qja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic inflation with kinetic alignment of axion fields</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2014-hsa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2014-hsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planckian Axions in String Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2014-gfa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2014-gfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D-brane Bremsstrahlung</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2013-fja/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2013-fja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersymmetric Vacua in Random Supergravity</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2012-at/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2012-at/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

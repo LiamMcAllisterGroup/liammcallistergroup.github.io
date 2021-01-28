@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viraf M. Mehta | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/viraf-m.-mehta/</link>
+      <atom:link href="https://liammcallistergroup.com/author/viraf-m.-mehta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viraf M. Mehta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Viraf M. Mehta</title>
+      <link>https://liammcallistergroup.com/author/viraf-m.-mehta/</link>
+    </image>
+    
+    <item>
+      <title>Superradiance Exclusions in the Landscape of Type IIB String Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/mehta-2020-kwu/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mehta-2020-kwu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

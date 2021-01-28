@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Frazer | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/jonathan-frazer/</link>
+      <atom:link href="https://liammcallistergroup.com/author/jonathan-frazer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Frazer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Jonathan Frazer</title>
+      <link>https://liammcallistergroup.com/author/jonathan-frazer/</link>
+    </image>
+    
+    <item>
+      <title>Chaotic inflation with kinetic alignment of axion fields</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2014-hsa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2014-hsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

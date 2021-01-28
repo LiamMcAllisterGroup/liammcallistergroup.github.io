@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timm Wrase | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/timm-wrase/</link>
+      <atom:link href="https://liammcallistergroup.com/author/timm-wrase/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timm Wrase</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Timm Wrase</title>
+      <link>https://liammcallistergroup.com/author/timm-wrase/</link>
+    </image>
+    
+    <item>
+      <title>The Powers of Monodromy</title>
+      <link>https://liammcallistergroup.com/publication/internal/mc-allister-2014-mpa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mc-allister-2014-mpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charting an Inflationary Landscape with Random Matrix Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/marsh-2013-qca/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/marsh-2013-qca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersymmetric Vacua in Random Supergravity</title>
+      <link>https://liammcallistergroup.com/publication/internal/bachlechner-2012-at/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/bachlechner-2012-at/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Wasteland of Random Supergravities</title>
+      <link>https://liammcallistergroup.com/publication/internal/marsh-2011-aa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/marsh-2011-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

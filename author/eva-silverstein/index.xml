@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eva Silverstein | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/eva-silverstein/</link>
+      <atom:link href="https://liammcallistergroup.com/author/eva-silverstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eva Silverstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Eva Silverstein</title>
+      <link>https://liammcallistergroup.com/author/eva-silverstein/</link>
+    </image>
+    
+    <item>
+      <title>Drifting Oscillations in Axion Monodromy</title>
+      <link>https://liammcallistergroup.com/publication/internal/flauger-2014-ana/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/flauger-2014-ana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Powers of Monodromy</title>
+      <link>https://liammcallistergroup.com/publication/internal/mc-allister-2014-mpa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mc-allister-2014-mpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity Waves and Linear Inflation from Axion Monodromy</title>
+      <link>https://liammcallistergroup.com/publication/internal/mc-allister-2008-hb/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mc-allister-2008-hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>String Cosmology: A Review</title>
+      <link>https://liammcallistergroup.com/publication/internal/mc-allister-2007-bg/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mc-allister-2007-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty is attractive: Moduli trapping at enhanced symmetry points</title>
+      <link>https://liammcallistergroup.com/publication/internal/kofman-2004-yc/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kofman-2004-yc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

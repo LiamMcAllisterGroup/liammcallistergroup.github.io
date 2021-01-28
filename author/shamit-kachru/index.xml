@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shamit Kachru | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/shamit-kachru/</link>
+      <atom:link href="https://liammcallistergroup.com/author/shamit-kachru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shamit Kachru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Shamit Kachru</title>
+      <link>https://liammcallistergroup.com/author/shamit-kachru/</link>
+    </image>
+    
+    <item>
+      <title>de Sitter Vacua from Ten Dimensions</title>
+      <link>https://liammcallistergroup.com/publication/external/kachru-2019-dvo/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/kachru-2019-dvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Sitter Vacua from Ten Dimensions</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2019-dvo/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2019-dvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compactification Effects in D-brane Inflation</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2009-qx/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2009-qx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3-brane Potentials from Fluxes in AdS/CFT</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2010-sx/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2010-sx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holographic Systematics of D-brane Inflation</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2008-kq/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2008-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequestering in String Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2007-xp/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2007-xp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterotic moduli stabilization with fractional Chern-Simons invariants</title>
+      <link>https://liammcallistergroup.com/publication/internal/gukov-2003-cy/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/gukov-2003-cy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bouncing brane cosmologies from warped string compactifications</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2002-kx/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2002-kx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards inflation in string theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2003-sx/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2003-sx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

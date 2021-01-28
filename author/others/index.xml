@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/others/</link>
+      <atom:link href="https://liammcallistergroup.com/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title> others</title>
+      <link>https://liammcallistergroup.com/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Primordial Non-Gaussianity</title>
+      <link>https://liammcallistergroup.com/publication/internal/meerburg-2019-qqi/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/meerburg-2019-qqi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scratches from the Past: Inflationary Archaeology through Features in the Power Spectrum of Primordial Fluctuations</title>
+      <link>https://liammcallistergroup.com/publication/internal/slosar-2019-gvt/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/slosar-2019-gvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the origin of our Universe through cosmic microwave background constraints on gravitational waves</title>
+      <link>https://liammcallistergroup.com/publication/internal/shandera-2019-ufi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/shandera-2019-ufi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Gaussianity as a Probe of the Physics of the Primordial Universe and the Astrophysics of the Low Redshift Universe</title>
+      <link>https://liammcallistergroup.com/publication/internal/komatsu-2009-kd/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/komatsu-2009-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Origin of the Universe as Revealed Through the Polarization of the Cosmic Microwave Background</title>
+      <link>https://liammcallistergroup.com/publication/internal/dodelson-2009-kq/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/dodelson-2009-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMBPol Mission Concept Study: Probing Inflation with CMB Polarization</title>
+      <link>https://liammcallistergroup.com/publication/internal/baumann-2008-aq/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/baumann-2008-aq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

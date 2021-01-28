@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Zimet | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/max-zimet/</link>
+      <atom:link href="https://liammcallistergroup.com/author/max-zimet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Zimet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Max Zimet</title>
+      <link>https://liammcallistergroup.com/author/max-zimet/</link>
+    </image>
+    
+    <item>
+      <title>de Sitter Vacua from Ten Dimensions</title>
+      <link>https://liammcallistergroup.com/publication/external/kachru-2019-dvo/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/external/kachru-2019-dvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Sitter Vacua from Ten Dimensions</title>
+      <link>https://liammcallistergroup.com/publication/internal/kachru-2019-dvo/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/kachru-2019-dvo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

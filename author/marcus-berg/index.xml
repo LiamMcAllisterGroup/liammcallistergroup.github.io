@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcus Berg | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/marcus-berg/</link>
+      <atom:link href="https://liammcallistergroup.com/author/marcus-berg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcus Berg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Marcus Berg</title>
+      <link>https://liammcallistergroup.com/author/marcus-berg/</link>
+    </image>
+    
+    <item>
+      <title>Sequestering in String Compactifications</title>
+      <link>https://liammcallistergroup.com/publication/internal/berg-2010-ha/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/berg-2010-ha/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

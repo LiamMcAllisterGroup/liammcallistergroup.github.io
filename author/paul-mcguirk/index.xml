@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul McGuirk | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/paul-mcguirk/</link>
+      <atom:link href="https://liammcallistergroup.com/author/paul-mcguirk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul McGuirk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Paul McGuirk</title>
+      <link>https://liammcallistergroup.com/author/paul-mcguirk/</link>
+    </image>
+    
+    <item>
+      <title>Aligned Natural Inflation in String Theory</title>
+      <link>https://liammcallistergroup.com/publication/internal/long-2014-dta/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/long-2014-dta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy Tails in Calabi-Yau Moduli Spaces</title>
+      <link>https://liammcallistergroup.com/publication/internal/long-2014-fba/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/long-2014-fba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Chiral Mesons in AdS/CFT</title>
+      <link>https://liammcallistergroup.com/publication/internal/mc-allister-2013-yxa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/mc-allister-2013-yxa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

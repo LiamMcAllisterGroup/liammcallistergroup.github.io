@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gonzalo Torroba | Liam McAllister Group</title>
+    <link>https://liammcallistergroup.com/author/gonzalo-torroba/</link>
+      <atom:link href="https://liammcallistergroup.com/author/gonzalo-torroba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gonzalo Torroba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Liam McAllister Group 2021</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liammcallistergroup.com/images/icon_huedf03ffd7da72a6c977a86f41dcf38c2_377150_512x512_fill_lanczos_center_2.png</url>
+      <title>Gonzalo Torroba</title>
+      <link>https://liammcallistergroup.com/author/gonzalo-torroba/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic SU(2) Structure from Seven-branes</title>
+      <link>https://liammcallistergroup.com/publication/internal/heidenreich-2010-ad/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://liammcallistergroup.com/publication/internal/heidenreich-2010-ad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
